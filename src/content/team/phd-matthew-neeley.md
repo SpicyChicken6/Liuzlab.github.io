@@ -1,6 +1,6 @@
 ---
 name: "Matthew Brady Neeley"
-role: "Gradute Student - PhD Candidate"
+role: "PhD Student"
 title: ["Graduate Student"]
 avatar: "../../assets/brady_neeley.jpg"
 bio: "Graduate Student specializing in natural language processing, large language models, foundation model development, rare disease, and clinical decision support systems"
